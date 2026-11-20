@@ -2,9 +2,9 @@
   "base": "CNY",
   "default": "CNY",
   "rates": {
-    "USD": null,
-    "EUR": null
+    "USD": 6.67,
+    "EUR": 7.32
   },
-  "date": "",
-  "updatedBy": ""
+  "date": "2026-11-20",
+  "updatedBy": "王晨阳"
 }
